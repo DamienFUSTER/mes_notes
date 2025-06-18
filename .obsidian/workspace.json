@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e444866e367355af",
+    "type": "split",
+    "children": [
+      {
+        "id": "94b43f9b8f86cd3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2b8f06fc716311",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "632079815dd48ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad19bf76df17b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace83d0af850931e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "323ebb4aa990124d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "7acfea970c5eda96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b5bdec55ff269a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c27a79d09b3485c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59c36693dd35f03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Lectures/Papier/shayanthanRoleSyntheticMicrobial2022a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour shayanthanRoleSyntheticMicrobial2022a"
+            }
+          },
+          {
+            "id": "107739338f32a6b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de test_2"
+            }
+          },
+          {
+            "id": "27c929ce72382f43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "19ce20a117225501",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test_2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de test_2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "7e2b8f06fc716311",
+  "lastOpenFiles": [
+    "Main/Préparation Thèse_IJPB.md",
+    "Préparation Thèse.md",
+    "Main/Concepts/PCA.md",
+    "Main/Concepts/diazotrophes.md",
+    "Main/Concepts/1749982653-USPT.md",
+    "Main/Concepts/mutator.md",
+    "Main/Concepts/holobiote.md",
+    "tranposons.md",
+    "Main/Botanique.md",
+    "Lectures/Divers/Prepa_these_sujet.md",
+    "Main/Concepts/azote.md",
+    "Main/Concepts/rhizobium.md",
+    "Main/Concepts/cry_for_help.md",
+    "Main/Concepts/champignons_phytopathogène.md",
+    "Main/Concepts/quorum_sensing.md",
+    "Main/Concepts/cellules_corticales.md",
+    "Main/Concepts/champignons_mycorhiziens_a_arbuscules.md",
+    "Main/Préparation Thèse.md",
+    "Main/Concepts/PGPR.md",
+    "Lectures/Divers/La botanique redecouverte.md",
+    "Main/Concepts/champignons_ectomycorhiens.md",
+    "Sans titre 1.canvas",
+    "Sans titre.canvas",
+    "Lectures/Divers/Text_oral_thèse.md",
+    "Lectures/Divers/Prepa_exp_recherche.md",
+    "Lectures/Divers/Plant_microbe_symbiosis_fundamental_and_advances.md",
+    "Lectures/Divers/Introduction_a_la_botanique_youtube.md",
+    "Lectures/Divers/Les botanistes et la flore de France.md",
+    "Lectures/Papier",
+    "Lectures/Divers",
+    "Lectures",
+    "Concept/Concepts",
+    "Concept",
+    "1 - Notes Principales/Concepts",
+    "Sans titre",
+    "2 - Lectures/Livres",
+    "4 - Index",
+    "3 - Tags"
+  ]
+}
